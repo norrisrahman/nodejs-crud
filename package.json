@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-crud",
+  "version": "1.0.0",
+  "description": "Simple Curd App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Norris Rahman",
+  "license": "ISC"
+}
